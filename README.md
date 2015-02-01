@@ -1,6 +1,7 @@
 # RaspberryPi-Robot-Full-Code-
 ***********************************
 This is the code for the robot based on a RPi
+------------------------------------
 Created by: Mattias Zurkovic 
 File Name: remote_robot.py
 
